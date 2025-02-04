@@ -82,7 +82,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Stack(
                       alignment: Alignment.center,
                       children: <Widget>[
-                        CircleAvatar(
+                        const CircleAvatar(
                             backgroundImage: AssetImage('images/beef.jpg'),
                             radius: 80
                         ),
@@ -100,7 +100,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Stack(
                       alignment: Alignment.center,
                       children: <Widget>[
-                        CircleAvatar(
+                        const CircleAvatar(
                             backgroundImage: AssetImage('images/chicken.jpg'),
                             radius: 80
                         ),
@@ -118,7 +118,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Stack(
                       alignment: Alignment.center,
                       children: <Widget>[
-                        CircleAvatar(
+                        const CircleAvatar(
                             backgroundImage: AssetImage('images/pork.jpg'),
                             radius: 80
                         ),
@@ -136,7 +136,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Stack(
                       alignment: Alignment.center,
                       children: <Widget>[
-                        CircleAvatar(
+                        const CircleAvatar(
                             backgroundImage: AssetImage('images/seafood.jpg'),
                             radius: 80
                         ),
@@ -169,7 +169,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Stack(
                       alignment: Alignment.bottomCenter,
                       children: <Widget>[
-                        CircleAvatar(
+                        const CircleAvatar(
                             backgroundImage: AssetImage('images/main_dishes.jpg'),
                             radius: 80
                         ),
@@ -189,7 +189,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Stack(
                       alignment: Alignment.bottomCenter,
                       children: <Widget>[
-                        CircleAvatar(
+                        const CircleAvatar(
                             backgroundImage: AssetImage('images/salad.jpg'),
                             radius: 80
                         ),
@@ -207,7 +207,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Stack(
                       alignment: Alignment.bottomCenter,
                       children: <Widget>[
-                        CircleAvatar(
+                        const CircleAvatar(
                             backgroundImage: AssetImage('images/side_dishes.jpg'),
                             radius: 80
                         ),
@@ -225,7 +225,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Stack(
                       alignment: Alignment.bottomCenter,
                       children: <Widget>[
-                        CircleAvatar(
+                        const CircleAvatar(
                             backgroundImage: AssetImage('images/pot.jpg'),
                             radius: 80
                         ),
@@ -255,7 +255,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Stack(
                       alignment: Alignment.bottomCenter,
                       children: <Widget>[
-                        CircleAvatar(
+                        const CircleAvatar(
                             backgroundImage: AssetImage('images/ice_cream.jpg'),
                             radius: 80
                         ),
@@ -274,7 +274,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Stack(
                       alignment: Alignment.bottomCenter,
                       children: <Widget>[
-                        CircleAvatar(
+                        const CircleAvatar(
                             backgroundImage: AssetImage('images/brownies.jpg'),
                             radius: 80
                         ),
@@ -291,7 +291,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Stack(
                       alignment: Alignment.bottomCenter,
                       children: <Widget>[
-                        CircleAvatar(
+                        const CircleAvatar(
                             backgroundImage: AssetImage('images/pies.jpg'),
                             radius: 80
                         ),
@@ -308,7 +308,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Stack(
                       alignment: Alignment.bottomCenter,
                       children: <Widget>[
-                        CircleAvatar(
+                        const CircleAvatar(
                             backgroundImage: AssetImage('images/cookies.jpg'),
                             radius: 80
                         ),
